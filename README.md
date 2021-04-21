@@ -1,2 +1,2 @@
 # newjenkins 
-#connected
+#connectedok
